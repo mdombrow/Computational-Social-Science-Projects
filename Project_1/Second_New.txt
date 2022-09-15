@@ -3,6 +3,6 @@ git clone https://github.com/peter-amerkhanian/GitHub-Collaboration-Practice
 git checkout -b Miriam_Branch
 git add Second_New.txt
 git commit -m "Miriam's interests and degree info."
-git push
+git push --set upstream origin Miriam_Branch
 
 
